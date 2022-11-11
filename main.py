@@ -1,14 +1,7 @@
 # With → Maior aplicação: abertura e fechamento de arquivos
 import csv
-
 import numpy as np
 from numpy.linalg import solve
-
-# def writeCSV(list, pathFile):
-#     with open(pathFile, 'w', newline='') as file:
-#         writer = csv.writer(file, delimiter=',')
-#         for i in list:
-#             writer.writerow(i)
 
 def readCSV(pathFile):
     valuesCSV = []
@@ -44,6 +37,7 @@ def showInfoLinearSystem(system, lineSystem, columnSystem, equalities):
     print(f"Número de linhas: {lineSystem}")
     print(f"Número de colunas: {columnSystem}")
     print("-----------------------------------------\n")
+
 def showResult(result):
     print("Resultado:")
     for id, x in enumerate(result):
