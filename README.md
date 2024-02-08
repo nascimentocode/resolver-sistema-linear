@@ -10,6 +10,9 @@ Este projeto consiste em um resolvedor de sistemas lineares, que recebe uma entr
 
 ![image](https://user-images.githubusercontent.com/68881676/200976248-2aaac83a-e587-49ac-90ea-a864a73b412a.png)
 
+## Tecnologia Utilizada
+- Python
+
 ## Como Usar
 
 1. Clone o repositório para a sua máquina local:
