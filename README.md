@@ -17,4 +17,9 @@ Este projeto consiste em um resolvedor de sistemas lineares, que recebe uma entr
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
-   
+   ```
+2. Execute o programa:
+
+   ```bash
+   python main.py
+   ```
